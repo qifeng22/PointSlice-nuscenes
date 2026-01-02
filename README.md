@@ -9,3 +9,6 @@ python test.py --cfg_file cfgs/pointslice/pointslice_20e_nuscenes.yaml --ckpt pa
 ### Results
 ![image](https://github.com/user-attachments/assets/6b5d8609-8939-420a-bbbd-f2ce9872bfda)
 
+You can download the checkpoint from the link below:
+Download Link: (https://pan.baidu.com/s/1oQaDAqGbgLDjz2zY5Z8MgQ?pwd=mnw8)
+
