@@ -1,6 +1,6 @@
 Here is the **PointSlice** code for the **nuScenes** dataset. You can run it using the following command:
 ```
-bash scripts/dist_train.sh cfgs/pointslice/safdnet_20e_nuscenes.yaml 8 --batch_size 16 --epoch 20 --workers=2
+bash scripts/dist_train.sh cfgs/pointslice/pointslice_20e_nuscenes.yaml 8 --batch_size 16 --epoch 20 --workers=2
 ```
 You can evaluate your trained model using the following command:
 ```
